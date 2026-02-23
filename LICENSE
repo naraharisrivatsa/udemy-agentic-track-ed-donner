@@ -1,6 +1,11 @@
 MIT License
 
+Copyright (c) 2025 Ed Donner
 Copyright (c) 2026 Narahari Srivatsa Prasanna
+
+This project includes code derived from OriginalProject (https://github.com/ed-donner/agents),
+licensed under the MIT License (c) 2025 Ed Donner.
+Additional modifications (c) 2026 Narahari Srivatsa Prasanna.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
